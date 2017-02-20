@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mindful</string>
+    <string name="hello_world">Hello World</string>
+    <string name="title_activity_survey">SurveyActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
